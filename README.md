@@ -1,6 +1,6 @@
 # Welcome to Docker
-
-This is a repo for new users getting started with Docker.
+This is a repo for new users getting started with Docker. 
+I modified it by adding some buttons and messed with the Dockerfile a bit to get an idea of what is happening/how to launch a container on Docker. 
 
 You can try it out using the following command.
 ```
